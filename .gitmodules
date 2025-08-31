@@ -1,0 +1,3 @@
+[submodule "dependencies/fir"]
+	path = dependencies/fir
+	url = https://github.com/GICodeWarrior/fir
