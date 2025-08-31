@@ -1,0 +1,8 @@
+INFO 2025-08-31 07:13:42,025 app.py - =================== CTG  BOT ===================
+INFO 2025-08-31 07:13:42,025 app.py - ===================  v0.0.0  ===================
+INFO 2025-08-31 07:13:42,026 app.py - starting...
+INFO 2025-08-31 07:13:44,812 Bot.py - Logged as : CTG_QuarterClerk#5386
+INFO 2025-08-31 07:18:36,053 Bot.py - Message from CTG_QuarterClerk#5386 : 
+INFO 2025-08-31 07:18:49,822 Bot.py - Message from _crh_ : finally
+INFO 2025-08-31 07:20:39,475 app.py - exit with : 1 > Program end successfully
+INFO 2025-08-31 07:20:39,476 app.py - ===================   END   ===================
